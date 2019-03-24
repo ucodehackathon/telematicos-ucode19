@@ -1,0 +1,9 @@
+{  
+   "user_name" : "Your Name",
+   "full_name": "Your Full Name",
+   "email" : "YourEmail@gmail.com",
+   "password" : "Your Password",
+   "gender" : "MorF",
+   "age" : 9,
+   "weight" : 10
+}
